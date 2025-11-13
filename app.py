@@ -1,6 +1,6 @@
-# requirements.txt
-flask==3.0.0
-azure-eventhub==5.11.6
+# # requirements.txt
+# flask==3.0.0
+# azure-eventhub==5.11.6
 
 # app.py
 import os
